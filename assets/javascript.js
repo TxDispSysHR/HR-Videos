@@ -1,7 +1,6 @@
 // // // Notes
 // Filler on 0, 2, 3
 // Shoot videos and drop into "./assets/images" locations
-// stop video upon modal close
 // works better on androids than on iphones
 
 
